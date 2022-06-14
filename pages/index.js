@@ -54,7 +54,7 @@ export default function Home(){
                     </div>
 
                 </div>
-                <div className={styles.title} className={styles.card}>
+                <div className={styles.card}>
                         <iframe src="https://open.spotify.com/embed/album/1mgBi9isDOEAKymmmWUEsL?utm_source=generator" 
                             width="100%" 
                             height="80" 
