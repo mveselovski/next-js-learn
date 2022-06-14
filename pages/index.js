@@ -56,7 +56,7 @@ export default function Home(){
             </main>
             <footer className={styles.footer}>
                 <p1>
-                    Created by{' '} <span className={styles.logo}>mveselovski</span>
+                    Created by<span className={styles.logo}>mveselovski</span>
                 </p1>
             </footer>
         </div>
