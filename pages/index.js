@@ -52,6 +52,16 @@ export default function Home(){
                           allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
                         </iframe>
                     </div>
+
+                </div>
+                <div className={styles.title} className={styles.card}>
+                        <iframe src="https://open.spotify.com/embed/album/1mgBi9isDOEAKymmmWUEsL?utm_source=generator" 
+                            width="100%" 
+                            height="80" 
+                            frameBorder="0" 
+                            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
+                                
+                        </iframe>
                 </div>
             </main>
             <footer className={styles.footer}>

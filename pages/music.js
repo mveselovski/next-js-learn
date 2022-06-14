@@ -44,6 +44,15 @@ export default function Home(){
                             allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">`
                         </iframe>
                     </div>
+                    <div>
+                        <iframe src="https://open.spotify.com/embed/album/74tazqoF1ry3hGIhXZXKUt?utm_source=generator" 
+                            width="100%" 
+                            height="80" 
+                            frameBorder="0" 
+                            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
+                                
+                        </iframe>
+                    </div>
 
                 </div>
             </main>
